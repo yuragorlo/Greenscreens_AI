@@ -1,0 +1,5 @@
+temp.txt
+__pycache__/
+.idea/
+venv/
+.ipynb_checkpoints/
