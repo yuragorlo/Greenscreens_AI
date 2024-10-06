@@ -18,8 +18,8 @@ Please send estimate your validation MAPE, the predictions for the test.csv and 
 
 # Instalation
 
-git clone https://github.com/yuragorlo/Greenscreens_ai.git  
-cd ml-engineer  
+git clone https://github.com/yuragorlo/Greenscreens_AI.git
+cd Greenscreens_AI
 python3 -m venv venv  
 source ./venv/bin/activate  
 pip3 install -r requirements.txt  
